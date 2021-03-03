@@ -7,3 +7,4 @@ def get_sum(num_a, num_b)
     numbers = (num_a..num_b).sum
   end
 end
+
